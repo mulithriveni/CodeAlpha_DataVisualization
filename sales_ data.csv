@@ -1,0 +1,13 @@
+Month,Region,Category,Sales,Profit
+Jan,South,Electronics,25000,5000
+Feb,North,Furniture,18000,3000
+Mar,East,Clothing,22000,4500
+Apr,West,Electronics,30000,7000
+May,South,Furniture,27000,5500
+Jun,North,Clothing,24000,4000
+Jul,East,Electronics,35000,8000
+Aug,West,Furniture,29000,6000
+Sep,South,Clothing,21000,3500
+Oct,North,Electronics,33000,7500
+Nov,East,Furniture,26000,5000
+Dec,West,Clothing,28000,5800
